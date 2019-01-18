@@ -1,8 +1,4 @@
 'use strict';
-/**
- * Andre Baltieri
- * https://github.com/balta-io/1972/blob/master/src/validators/fluent-validator.js
- */
 
 let errors = [];
 
